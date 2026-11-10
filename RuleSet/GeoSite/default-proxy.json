@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "engage.cloudflareclient.com",
+        "github.com",
+        "bing.com",
+        "c.mi.com",
+        "apple-relay.apple.com",
+        "push.apple.com",
+        "googleapis.cn",
+        "googleapis.com",
+        "google.com.tw",
+        "google.com.hk",
+        "gstatic.com",
+        "xn--ngstr-lra8j.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "formula1.com"
+      ]
+    },
+    {
+      "domain": [
+        "linear.tv.apple.com"
+      ]
+    }
+  ]
+}

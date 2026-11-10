@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "apple.com",
+        "microsoft.com",
+        "dyndns.com",
+        "douyucdn.cn",
+        "douyucdn2.cn",
+        "location.services.mozilla.com",
+        "plex.tv",
+        "tracker.m-team.cc",
+        "stun.cloudflare.com",
+        "apple1024.top",
+        "api.weibo.cn",
+        "sinaimg.cn",
+        "djigate.com",
+        "steamcontent.com",
+        "dl.steam.clngaa.com",
+        "dl.steam.ksyna.com",
+        "st.dl.bscstorage.net",
+        "st.dl.eccdnx.com",
+        "st.dl.pinyuncloud.com",
+        "cdn.mileweb.cs.steampowered.com.8686c.com",
+        "cdn-ws.content.steamchina.com",
+        "cdn-qc.content.steamchina.com",
+        "cdn-ali.content.steamchina.com",
+        "epicgames-download1-1251447533.file.myqcloud.com",
+        "dns.alidns.com",
+        "doh.pub",
+        "dot.pub",
+        "doh.360.cn",
+        "dot.360.cn",
+        "portcheck.transmissionbt.com",
+        "m-team.io",
+        "m-term.cc"
+      ]
+    }
+  ]
+}
