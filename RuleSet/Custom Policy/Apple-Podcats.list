@@ -1,0 +1,20 @@
+# NAME: Apple Podcasts
+# AUTHOR: Custom
+# UPDATED: 2025-12-18 12:00:00
+# DOMAIN: 13
+# DOMAIN-SUFFIX: 1
+# TOTAL: 14
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,bag.itunes.apple.com
+DOMAIN,bookkeeper.itunes.apple.com
+DOMAIN,buy.itunes.apple.com
+DOMAIN,entitlements-edge.itunes.apple.com
+DOMAIN,fpinit.itunes.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,lookup-api.apple.com
+DOMAIN,past.im
+DOMAIN,play.itunes.apple.com
+DOMAIN,podcasts.apple.com
+DOMAIN,setup.icloud.com
+DOMAIN,xp.apple.com
+DOMAIN-SUFFIX,podcast.apple.com
