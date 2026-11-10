@@ -1,0 +1,6 @@
+#!name=SSID SUSPEND
+#!desc=Make Sure The Surge Is Suspended When The Mac Is Connected To The Specific Wifi
+
+[SSID Setting]
+"Airengine_5G" suspend=true
+"OpenWrt_5G" suspend=true

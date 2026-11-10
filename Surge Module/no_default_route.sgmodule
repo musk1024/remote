@@ -1,0 +1,5 @@
+#!name=No Default Route
+#!desc=Do not set the default route to enbale the homekit camera
+
+[General]
+compatibility-mode = 5

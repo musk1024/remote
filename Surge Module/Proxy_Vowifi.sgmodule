@@ -1,0 +1,6 @@
+#!name=Proxy Vowifi
+#!desc=Allow Surge proxy Vowifi
+
+[General]
+include-all-networks=true
+include-cellular-services=true

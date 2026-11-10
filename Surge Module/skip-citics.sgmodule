@@ -1,0 +1,11 @@
+#!name=CiticsInfo CRM Compatibility
+#!desc=中信移动 CRM 认证兼容及数据隧道绕过
+
+[General]
+skip-proxy = %APPEND% citicsinfo.com, *.citicsinfo.com
+always-real-ip = easy-login.10099.com.cn, *-update.xoyocdn.com, id6.me, open.e.189.cn, citicsinfo.com, *.citicsinfo.com, citics.com, *.citics.com, yyuap.com, *.yyuap.com
+always-raw-tcp-hosts = ztrust.citicsinfo.com
+tun-excluded-routes = 211.95.37.122/32, 115.223.12.62/32, 60.163.129.0/24, 101.69.97.0/24, 60.188.85.0/24, 101.71.1.0/24, 122.228.6.0/24, 123.103.83.125/32, 123.103.83.169/32, 124.207.9.169/32, 219.146.74.214/32, 221.3.7.123/32, 221.3.7.125/32
+
+[Rule]
+DOMAIN-SUFFIX,citicsinfo.com,DIRECT

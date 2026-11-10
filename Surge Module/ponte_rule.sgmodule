@@ -1,0 +1,5 @@
+#!name=Ponte Rule
+#!desc=Use the Ponte when visiting the local address
+
+[Rule]
+IP-CIDR,10.18.1.0/24,DEVICE:APPLETV,no-resolve

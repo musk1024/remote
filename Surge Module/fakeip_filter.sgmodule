@@ -1,0 +1,5 @@
+#!name=Feedback True IP
+#!desc=Make Sure Some Doamin Get The True IP
+
+[General]
+always-real-ip = %APPEND% *.apple1024.top

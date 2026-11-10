@@ -1,0 +1,6 @@
+#!name=Enable ipv6
+#!desc=Allow Surge to use ipv6
+
+[General]
+ipv6 = true
+ipv6-vif = true
